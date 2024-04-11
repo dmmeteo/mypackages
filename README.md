@@ -20,3 +20,5 @@ docker push ghcr.io/dmmeteo/mypackages/myimage:latest
 ```
 
 ## Use GitHub Actions to publish a Docker image to GitHub Packages (GHCR)
+1. Create a GitHub Actions workflow
+2. Push commits to the repository and check the Actions tab
